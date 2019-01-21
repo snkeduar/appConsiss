@@ -1,0 +1,13 @@
+<FlexboxLayout>
+    <StackLayout class="form" [class.dark]="!isLoggingIn">
+
+        <TextField hint="Correo" keyboardType="email" autocorrect="false"
+            autocapitalizationType="none" [(ngModel)]="user.email" class="input input-border"></TextField>
+        <TextField hint="Contraseña" secure="true" [(ngModel)]="user.password"
+            class="input input-border"></TextField>
+
+        <Button text="Iniciar Sessión" class="btn btn-primary"
+            (tap)="login()"></Button>
+        <Button text="Registro" (tap)="register()"></Button>
+    </StackLayout>
+</FlexboxLayout>

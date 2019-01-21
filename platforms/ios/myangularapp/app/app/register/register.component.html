@@ -1,0 +1,13 @@
+<FlexboxLayout>
+    <StackLayout class="form">
+        <TextField hint="Name" autocorrect="false"
+        autocapitalizationType="none" [(ngModel)]="user.name"
+            class="input input-border"></TextField>
+        <TextField hint="Email Address" keyboardType="email" autocorrect="false"
+            autocapitalizationType="none" [(ngModel)]="user.email" class="input input-border"></TextField>
+        <TextField hint="Password" secure="true" [(ngModel)]="user.password"
+            class="input input-border"></TextField>
+
+        <Button class="btn btn-primary" (tap)="submit()"></Button>
+    </StackLayout>
+</FlexboxLayout>

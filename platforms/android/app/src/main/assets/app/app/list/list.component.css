@@ -1,0 +1,30 @@
+/* Add mobile styles for the component here.  */
+.add-bar {
+    background-color: rgb(236, 130, 112);
+    padding: 5;
+    color: white;
+  }
+  .add-bar Image {
+    height: 25px;
+    vertical-align: center;
+    margin-left: 10;
+    margin-right: 10;
+    color: white;
+  }
+  .add-bar TextField {
+    padding: 10;
+  }
+  Label {
+    background-color: rgb(167, 162, 162);
+    border-bottom-width: 1;
+    border-bottom-color: gray;
+    color: white;
+  }
+  .delete-view {
+    background-color: #CB1D00;
+    padding: 20;
+  }
+  .delete-view Image {
+    color: white;
+  }
+  

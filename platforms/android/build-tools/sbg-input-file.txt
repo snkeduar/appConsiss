@@ -1,0 +1,1 @@
+/Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/assets/app

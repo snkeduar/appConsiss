@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0da7a617160f95379ca2de4ce2c6cc44/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/be837cdb65eaa05be9d37396666b7cf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9a54066d7822f83b27f261df9cd85f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/bd16c0642c6b93a58435227dd727ab50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/938d2c7e0993d508b14a2b8fea72c700/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/f4e3011737728b695ade5ce88150fde5/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSListView-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/cf39dc17ca2c7b49244410e03cd045a0/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/baf19958865bdef09c9cc398ea4911c1/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/11714873c06d514fd60ddf30d64df400/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d95c28ffff6823c5490b1032868b7c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e31d9d9bda3bcb21fc332de46a755a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/672fc3270ca946433d67d1aa10bdf96c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f767480b05dfe036f929d0aa88b8902/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ecaae70b1dbfe7110052b6eaa6b1161/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c1f685c583893c2167714dde426b295d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b02bbee9b2e5dc59aafa03a616a695ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77b6ddf025af004bd826e20eb470ad3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/44f5c721b6403731a570c8d195f15f33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e637f34f2c016bd67b13f795178b0e08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0565e9108cb72673e4f0e45f40d717ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/984aad93c24de4823ce603c32fea0f66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c4ff5df7fc3db401cfb11729ac01ad72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9e7e41187d76813cb3a9d9cc151a221/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/993003b1863d13518f68275faef8f976/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1135ef230105ed4592653286bd5dbb5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6abb3a374b2f14082f5f1602667b00fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2cc1213018435c81be6e6285385f1088/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8fc5de1cde8d0bd1021fb277eb03256/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/13e073c69ed41f4a833bcbf96af3c28d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0ad5b6f7f07350e1838ee0d0df566ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec20bd7ef922740b978d7fde8304ac2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2ea2299e22604890c7368af27642f563/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88a853a2ec500c3a512952be641ca751/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b1003bbdb796f13ebb15f82d62ed87dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/85d5060b579b75c37fd0d60c187486cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7125355c61a2cd04ca40fe4d53cdd488/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:3:2-41
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0da7a617160f95379ca2de4ce2c6cc44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0da7a617160f95379ca2de4ce2c6cc44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/be837cdb65eaa05be9d37396666b7cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/be837cdb65eaa05be9d37396666b7cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9a54066d7822f83b27f261df9cd85f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9a54066d7822f83b27f261df9cd85f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/bd16c0642c6b93a58435227dd727ab50/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/bd16c0642c6b93a58435227dd727ab50/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/938d2c7e0993d508b14a2b8fea72c700/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/938d2c7e0993d508b14a2b8fea72c700/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/f4e3011737728b695ade5ce88150fde5/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/f4e3011737728b695ade5ce88150fde5/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/cf39dc17ca2c7b49244410e03cd045a0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/cf39dc17ca2c7b49244410e03cd045a0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/baf19958865bdef09c9cc398ea4911c1/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/baf19958865bdef09c9cc398ea4911c1/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/11714873c06d514fd60ddf30d64df400/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/11714873c06d514fd60ddf30d64df400/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d95c28ffff6823c5490b1032868b7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d95c28ffff6823c5490b1032868b7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e31d9d9bda3bcb21fc332de46a755a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e31d9d9bda3bcb21fc332de46a755a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/672fc3270ca946433d67d1aa10bdf96c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/672fc3270ca946433d67d1aa10bdf96c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f767480b05dfe036f929d0aa88b8902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f767480b05dfe036f929d0aa88b8902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ecaae70b1dbfe7110052b6eaa6b1161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ecaae70b1dbfe7110052b6eaa6b1161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c1f685c583893c2167714dde426b295d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c1f685c583893c2167714dde426b295d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b02bbee9b2e5dc59aafa03a616a695ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b02bbee9b2e5dc59aafa03a616a695ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77b6ddf025af004bd826e20eb470ad3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77b6ddf025af004bd826e20eb470ad3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/44f5c721b6403731a570c8d195f15f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/44f5c721b6403731a570c8d195f15f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e637f34f2c016bd67b13f795178b0e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e637f34f2c016bd67b13f795178b0e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0565e9108cb72673e4f0e45f40d717ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0565e9108cb72673e4f0e45f40d717ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/984aad93c24de4823ce603c32fea0f66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/984aad93c24de4823ce603c32fea0f66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c4ff5df7fc3db401cfb11729ac01ad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c4ff5df7fc3db401cfb11729ac01ad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9e7e41187d76813cb3a9d9cc151a221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9e7e41187d76813cb3a9d9cc151a221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/993003b1863d13518f68275faef8f976/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/993003b1863d13518f68275faef8f976/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1135ef230105ed4592653286bd5dbb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1135ef230105ed4592653286bd5dbb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6abb3a374b2f14082f5f1602667b00fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6abb3a374b2f14082f5f1602667b00fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2cc1213018435c81be6e6285385f1088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2cc1213018435c81be6e6285385f1088/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8fc5de1cde8d0bd1021fb277eb03256/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8fc5de1cde8d0bd1021fb277eb03256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/13e073c69ed41f4a833bcbf96af3c28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/13e073c69ed41f4a833bcbf96af3c28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0ad5b6f7f07350e1838ee0d0df566ab2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0ad5b6f7f07350e1838ee0d0df566ab2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec20bd7ef922740b978d7fde8304ac2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec20bd7ef922740b978d7fde8304ac2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2ea2299e22604890c7368af27642f563/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2ea2299e22604890c7368af27642f563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88a853a2ec500c3a512952be641ca751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88a853a2ec500c3a512952be641ca751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b1003bbdb796f13ebb15f82d62ed87dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b1003bbdb796f13ebb15f82d62ed87dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/85d5060b579b75c37fd0d60c187486cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/85d5060b579b75c37fd0d60c187486cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7125355c61a2cd04ca40fe4d53cdd488/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7125355c61a2cd04ca40fe4d53cdd488/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0da7a617160f95379ca2de4ce2c6cc44/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0da7a617160f95379ca2de4ce2c6cc44/AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/11714873c06d514fd60ddf30d64df400/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/11714873c06d514fd60ddf30d64df400/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1135ef230105ed4592653286bd5dbb5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1135ef230105ed4592653286bd5dbb5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gmvykondev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19349ef254fdffd06600b9592c9565dc/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/gmvykondev/Documents/NativeScript/my-angular-app/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
